@@ -7,6 +7,8 @@ public class galal {
         System.out.println("ne ");
 
         System.out.println("in charge");
+
+        System.out.println("pull me");
     }
 
 
