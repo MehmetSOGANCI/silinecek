@@ -5,6 +5,9 @@ public class galal {
         System.out.println("güzel gidiorum");
 
         System.out.println("ne ");
+
+        System.out.println("in charge");
     }
+
 
 }
